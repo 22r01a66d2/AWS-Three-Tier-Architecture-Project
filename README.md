@@ -54,12 +54,6 @@ using public and private subnets across multiple Availability Zones.
 
 ---
 
-## Project Screenshots
-
-(Add screenshots)
-
----
-
 ## Skills Demonstrated
 
 - AWS Networking
